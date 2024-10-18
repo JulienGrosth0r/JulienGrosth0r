@@ -23,18 +23,6 @@ Let's connect if you're looking for a motivated and adaptable developer-in-train
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-## 💡 Professional Background
-- **Trilingual Customer Representative** at *Snowleader* (2021-2023)
-- **Receptionist** at *Le Hüb by Privilodges* (2019-2021)
-- **Front Desk Manager** at *Hôtel Le Pic Blanc* (2018-2019)
-- **Various experiences** in hospitality and customer service (2013-2018)
-
-## 🎓 Education
-- **Apprenant Concepteur/Développeur d’Application** at *Le Campus Numérique in the Alps* (2024 - Ongoing)
-- **Licence professionnelle LEA en hôtellerie et restauration internationale** at *Université de Nantes* and *Letterkenny Inst. of Technology* (2015-2016)
-- **Licence Langues Etrangères Appliquées (Anglais/Espagnol)** at *Université Stendhal Grenoble 3* (2011-2014)
-
 ## 🌍 Languages
 - **French** (native)
 - **English** (fluent)
@@ -42,10 +30,3 @@ Let's connect if you're looking for a motivated and adaptable developer-in-train
 
 ## 🛠️ Projects
 I'll be adding more of my coding projects soon! Stay tuned as I work on exciting personal and collaborative projects in web development, backend services, and more! 🤓
-
-## 🎸 Hobbies & Interests
-- Trekking & Hiking 🏞️
-- Video Games (RTS, RPG, FPS) 🎮
-- Board Games, Wargames (WH40K 👑)
-- Electric Guitar 🎸
-- Motorcycle Riding & DIY Mechanics 🏍️
