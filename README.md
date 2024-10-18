@@ -41,7 +41,7 @@ Let's connect if you're looking for a motivated and adaptable developer-in-train
 - **Spanish** (fluent)
 
 ## 🛠️ Projects
-I'll be adding my coding projects soon! Stay tuned as I work on exciting personal and collaborative projects in web development, backend services, and more! 🤓
+I'll be adding more of my coding projects soon! Stay tuned as I work on exciting personal and collaborative projects in web development, backend services, and more! 🤓
 
 ## 🎸 Hobbies & Interests
 - Trekking & Hiking 🏞️
