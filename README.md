@@ -1,3 +1,4 @@
+![helloThereGif](https://github.com/JulienGrosth0r/JulienGrosth0r/blob/main/helloThere.gif)
 # 👋 I'm Julien, and welcome to my Github!
 
 🖥️ Passionate about development and currently pursuing my objective of becoming an app developer at *Le Campus Numérique in the Alps* (Grenoble).  
