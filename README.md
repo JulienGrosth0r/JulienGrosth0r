@@ -29,3 +29,7 @@ Let's connect if you're looking for a motivated and adaptable developer-in-train
 
 ## 🛠️ Projects
 I'll be adding more of my coding projects soon! Stay tuned as I work on exciting personal and collaborative projects in web development, backend services, and more! 🤓
+
+🌿 [Spirulina Shop with Vue.js](https://github.com/JulienGrosth0r/Spirulina-shop-with-Vuejs)
+🐲 [Dungeon & Dragons with Java](https://github.com/JulienGrosth0r/Dungeon-Dragons-with-Java)
+🛩️ [Simple Website with Laravel](https://github.com/JulienGrosth0r/Simple-Website-with-Laravel)
